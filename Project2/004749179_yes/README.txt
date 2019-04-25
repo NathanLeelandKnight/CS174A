@@ -1,3 +1,5 @@
+Video: https://youtu.be/GjAGAzPyLdk
+
 Look for texture object that is colored like a rainbow. The edges are obvious to see.
 The texturing was made to wrap the image around the object both inside the object and outside.
 the sides of the object just took the image like a layover.
